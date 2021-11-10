@@ -33,3 +33,20 @@ body{
     margin: 0 auto;
     padding: 0 15px;
 }
+
+.container-fluid{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.title{
+    font-size: 30px;
+    line-height: 45px;
+    color: $big;
+    font-weight: 400;
+}
+
+button{
+    cursor: pointer;
+}
